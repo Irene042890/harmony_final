@@ -1,0 +1,70 @@
+2025-12-16 19:58:33,923 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 19:59:49,157 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 20:02:44,482 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 20:02:45,020 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x00000206CA885E90>
+2025-12-16 20:02:45,022 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-16 20:02:45,022 - ERROR - compile_jac: main.jac: line 69:0 - unparsed:main.jac:0:0: - extraneous input 'with' expecting {<EOF>, 'type', 'graph', 'node', 'edge', 'walker', 'async', 'test', 'global'}
+2025-12-16 20:02:45,024 - ERROR - register: main.jac: Code not registered
+2025-12-16 20:32:50,612 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 20:32:51,022 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x0000022E83705D50>
+2025-12-16 20:32:51,023 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-16 20:32:51,024 - ERROR - compile_jac: main.jac: line 69:0 - unparsed:main.jac:0:0: - extraneous input 'with' expecting {<EOF>, 'type', 'graph', 'node', 'edge', 'walker', 'async', 'test', 'global'}
+2025-12-16 20:32:51,025 - ERROR - register: main.jac: Code not registered
+2025-12-16 20:39:18,422 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 20:39:18,859 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x0000025B56416190>
+2025-12-16 20:39:18,860 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-16 20:39:18,860 - ERROR - compile_jac: main.jac: line 11:4 - unparsed:main.jac:0:0: - no viable alternative at input 'canrunentry'
+2025-12-16 20:39:18,861 - ERROR - compile_jac: main.jac: line 30:4 - unparsed:main.jac:0:0: - no viable alternative at input 'canrunentry'
+2025-12-16 20:39:18,861 - ERROR - compile_jac: main.jac: line 43:4 - unparsed:main.jac:0:0: - no viable alternative at input 'canrunentry'
+2025-12-16 20:39:18,861 - ERROR - compile_jac: main.jac: line 56:4 - unparsed:main.jac:0:0: - no viable alternative at input 'canrunentry'
+2025-12-16 20:39:18,862 - ERROR - compile_jac: main.jac: line 72:4 - unparsed:main.jac:0:0: - no viable alternative at input 'canrunentry'
+2025-12-16 20:39:18,862 - ERROR - register: main.jac: Code not registered
+2025-12-16 20:43:53,062 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 20:43:53,511 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x0000017926F4D910>
+2025-12-16 20:43:53,512 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-16 20:43:53,512 - ERROR - compile_jac: main.jac: line 10:4 - unparsed:main.jac:0:0: - extraneous input 'entry' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', 'with', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'has', 'global', 'can', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-16 20:43:53,514 - ERROR - compile_jac: main.jac: line 27:4 - unparsed:main.jac:0:0: - extraneous input 'entry' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', 'with', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'has', 'global', 'can', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-16 20:43:53,517 - ERROR - compile_jac: main.jac: line 39:4 - unparsed:main.jac:0:0: - extraneous input 'entry' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', 'with', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'has', 'global', 'can', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-16 20:43:53,519 - ERROR - compile_jac: main.jac: line 51:4 - unparsed:main.jac:0:0: - extraneous input 'entry' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', 'with', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'has', 'global', 'can', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-16 20:43:53,520 - ERROR - compile_jac: main.jac: line 66:4 - unparsed:main.jac:0:0: - extraneous input 'entry' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', 'with', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'has', 'global', 'can', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-16 20:43:53,522 - ERROR - register: main.jac: Code not registered
+2025-12-16 20:48:42,596 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 20:48:43,276 - ERROR - spawn_architype: main.jac: Unable to spawn walker architype init!
+2025-12-16 20:48:43,277 - ERROR - run_architype: main.jac: Unable to spawn architype ['init', 'walker']!
+2025-12-16 20:50:55,583 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 20:50:56,143 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x0000020053301B50>
+2025-12-16 20:50:56,143 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-16 20:50:56,143 - ERROR - compile_jac: main.jac: line 73:29 - unparsed:main.jac:0:0: - no viable alternative at input 'support_agent();'
+2025-12-16 20:50:56,144 - ERROR - register: main.jac: Code not registered
+2025-12-16 20:53:02,637 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 20:53:03,086 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x000001EBFE027890>
+2025-12-16 20:53:03,086 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-16 20:53:03,087 - ERROR - compile_jac: main.jac: line 73:27 - unparsed:main.jac:0:0: - no viable alternative at input 'support_agent;'
+2025-12-16 20:53:03,087 - ERROR - register: main.jac: Code not registered
+2025-12-16 20:55:59,683 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 20:56:00,424 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x0000018190D06CD0>
+2025-12-16 20:56:00,425 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-16 20:56:00,426 - ERROR - compile_jac: main.jac: line 73:19 - unparsed:main.jac:0:0: - no viable alternative at input 'heresupport_agent'
+2025-12-16 20:56:00,427 - ERROR - register: main.jac: Code not registered
+2025-12-16 21:07:23,052 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 21:07:23,484 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x000001A00ECE45D0>
+2025-12-16 21:07:23,484 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-16 21:07:23,485 - ERROR - compile_jac: main.jac: line 73:18 - unparsed:main.jac:0:0: - no viable alternative at input '(here,'
+2025-12-16 21:07:23,486 - ERROR - register: main.jac: Code not registered
+2025-12-16 21:09:37,165 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-16 21:09:37,691 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x000001B30C6C06D0>
+2025-12-16 21:09:37,692 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-16 21:09:37,692 - ERROR - compile_jac: main.jac: line 42:27 - unparsed:main.jac:0:0: - no viable alternative at input 'support_agent;'
+2025-12-16 21:09:37,693 - ERROR - register: main.jac: Code not registered

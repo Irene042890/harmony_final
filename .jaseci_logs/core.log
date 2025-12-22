@@ -1,0 +1,22 @@
+2025-12-18 16:32:10,269 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-18 16:34:38,101 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-18 17:43:20,256 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-18 17:51:09,381 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-18 17:53:03,647 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-18 17:54:19,849 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-18 17:59:24,534 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-18 18:06:59,434 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-18 18:12:47,613 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-18 18:16:05,087 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-18 18:28:53,547 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.

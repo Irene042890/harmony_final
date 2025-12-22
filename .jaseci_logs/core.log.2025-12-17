@@ -1,0 +1,206 @@
+2025-12-17 13:21:41,362 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:23:32,145 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:23:59,292 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:29:03,926 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:31:57,847 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:33:57,826 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:33:58,499 - ERROR - rt_error: main.jac:support_agent - line 37, col 21 - rule atom_trailer - Key read_all_stdin not found in object/dict.
+2025-12-17 13:36:01,692 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:36:02,218 - ERROR - rt_error: main.jac:support_agent - line 43, col 15 - rule atom_trailer - Key loads not found in object/dict.
+2025-12-17 13:38:48,207 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:38:48,604 - ERROR - rt_error: main.jac:support_agent - line 49, col 16 - rule DOT - Incompatible type for object None - NoneType, expecting [<class 'dict'>, <class 'jaseci.prim.element.Element'>, <class 'jaseci.jac.jac_set.JacSet'>]
+2025-12-17 13:41:34,187 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:41:34,697 - ERROR - rt_error: main.jac:support_agent - line 49, col 16 - rule DOT - Incompatible type for object None - NoneType, expecting [<class 'dict'>, <class 'jaseci.prim.element.Element'>, <class 'jaseci.jac.jac_set.JacSet'>]
+2025-12-17 13:43:38,222 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:45:11,688 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:46:21,899 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:46:58,976 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:51:05,980 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 13:54:09,003 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:00:47,256 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:10:08,956 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:12:14,984 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:12:15,346 - ERROR - rt_error: main.jac:support_agent - line 24, col 24 - rule atom - Variable not defined - analyze_mood
+2025-12-17 14:12:15,347 - INFO - log: ['LOAD_VAR', 12, 'analyze_mood']
+2025-12-17 14:15:20,418 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:15:20,693 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x0000028FD9FFF050>
+2025-12-17 14:15:20,694 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 14:15:20,694 - ERROR - compile_jac: main.jac: line 23:14 - unparsed:main.jac:0:0: - mismatched input '{' expecting {'take', ';', 'disengage', 'report'}
+2025-12-17 14:15:20,695 - ERROR - compile_jac: main.jac: line 36:14 - unparsed:main.jac:0:0: - mismatched input 'trend_insights' expecting {'take', ';', 'disengage', 'report'}
+2025-12-17 14:15:20,696 - ERROR - register: main.jac: Code not registered
+2025-12-17 14:19:29,717 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:19:30,026 - ERROR - rt_error: main.jac:support_agent - line 24, col 24 - rule atom - Variable not defined - analyze_mood
+2025-12-17 14:19:30,026 - INFO - log: ['LOAD_VAR', 12, 'analyze_mood']
+2025-12-17 14:25:57,145 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:25:57,846 - ERROR - rt_error: main.jac:support_agent - line 24, col 24 - rule atom - Variable not defined - analyze_mood
+2025-12-17 14:25:57,851 - INFO - log: ['LOAD_VAR', 12, 'analyze_mood']
+2025-12-17 14:33:49,853 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:34:28,470 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:34:28,700 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x00000245D6807250>
+2025-12-17 14:34:28,701 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 14:34:28,702 - ERROR - compile_jac: main.jac: line 22:24 - unparsed:main.jac:0:0: - extraneous input 'can' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'spawn', '::', NODE_DBL_COLON, '{', 'edge', 'sync', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 14:34:28,703 - ERROR - compile_jac: main.jac: line 23:23 - unparsed:main.jac:0:0: - extraneous input 'can' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'spawn', '::', NODE_DBL_COLON, '{', 'edge', 'sync', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 14:34:28,704 - ERROR - compile_jac: main.jac: line 34:15 - unparsed:main.jac:0:0: - no viable alternative at input 'reportcan'
+2025-12-17 14:34:28,705 - ERROR - register: main.jac: Code not registered
+2025-12-17 14:36:48,769 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:36:49,053 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x00000193C3B61450>
+2025-12-17 14:36:49,055 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 14:36:49,056 - ERROR - compile_jac: main.jac: line 22:26 - unparsed:main.jac:0:0: - extraneous input 'can' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'spawn', '::', NODE_DBL_COLON, '{', 'edge', 'sync', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 14:36:49,058 - ERROR - compile_jac: main.jac: line 23:25 - unparsed:main.jac:0:0: - extraneous input 'can' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'spawn', '::', NODE_DBL_COLON, '{', 'edge', 'sync', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 14:36:49,065 - ERROR - compile_jac: main.jac: line 39:16 - unparsed:main.jac:0:0: - extraneous input 'can' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'spawn', '::', NODE_DBL_COLON, '{', 'edge', 'sync', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 14:36:49,071 - ERROR - register: main.jac: Code not registered
+2025-12-17 14:39:27,069 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:39:27,362 - ERROR - rt_error: main.jac:support_agent - line 21, col 38 - rule LPAREN - Unable to execute ability
+2025-12-17 14:47:53,571 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:47:53,902 - ERROR - rt_error: main.jac:support_agent - line 18, col 38 - rule LPAREN - Unable to execute ability
+2025-12-17 14:59:26,000 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 14:59:26,310 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x0000027479CB7410>
+2025-12-17 14:59:26,311 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 14:59:26,311 - ERROR - compile_jac: main.jac: line 3:7 - unparsed:main.jac:0:0: - extraneous input 'can' expecting NAME
+2025-12-17 14:59:26,312 - ERROR - compile_jac: main.jac: line 3:23 - unparsed:main.jac:0:0: - missing '=' at '('
+2025-12-17 14:59:26,312 - ERROR - compile_jac: main.jac: line 3:28 - unparsed:main.jac:0:0: - mismatched input ':' expecting ')'
+2025-12-17 14:59:26,313 - ERROR - compile_jac: main.jac: line 3:39 - unparsed:main.jac:0:0: - mismatched input ':' expecting '='
+2025-12-17 14:59:26,314 - ERROR - compile_jac: main.jac: line 17:7 - unparsed:main.jac:0:0: - extraneous input 'can' expecting NAME
+2025-12-17 14:59:26,314 - ERROR - compile_jac: main.jac: line 17:27 - unparsed:main.jac:0:0: - missing '=' at '('
+2025-12-17 14:59:26,315 - ERROR - compile_jac: main.jac: line 17:32 - unparsed:main.jac:0:0: - mismatched input ':' expecting ')'
+2025-12-17 14:59:26,315 - ERROR - compile_jac: main.jac: line 17:43 - unparsed:main.jac:0:0: - mismatched input ':' expecting '='
+2025-12-17 14:59:26,316 - ERROR - register: main.jac: Code not registered
+2025-12-17 15:00:25,288 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:00:25,535 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x000001C3E4A4F890>
+2025-12-17 15:00:25,536 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 15:00:25,536 - ERROR - compile_jac: main.jac: line 3:7 - unparsed:main.jac:0:0: - extraneous input 'can' expecting NAME
+2025-12-17 15:00:25,537 - ERROR - compile_jac: main.jac: line 3:23 - unparsed:main.jac:0:0: - missing '=' at '('
+2025-12-17 15:00:25,537 - ERROR - compile_jac: main.jac: line 3:28 - unparsed:main.jac:0:0: - mismatched input ':' expecting ')'
+2025-12-17 15:00:25,538 - ERROR - compile_jac: main.jac: line 3:39 - unparsed:main.jac:0:0: - mismatched input ':' expecting '='
+2025-12-17 15:00:25,538 - ERROR - compile_jac: main.jac: line 17:7 - unparsed:main.jac:0:0: - extraneous input 'can' expecting NAME
+2025-12-17 15:00:25,539 - ERROR - compile_jac: main.jac: line 17:27 - unparsed:main.jac:0:0: - missing '=' at '('
+2025-12-17 15:00:25,540 - ERROR - compile_jac: main.jac: line 17:32 - unparsed:main.jac:0:0: - mismatched input ':' expecting ')'
+2025-12-17 15:00:25,540 - ERROR - compile_jac: main.jac: line 17:43 - unparsed:main.jac:0:0: - mismatched input ':' expecting '='
+2025-12-17 15:00:25,541 - ERROR - register: main.jac: Code not registered
+2025-12-17 15:03:05,394 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:03:05,533 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x000001B80A364810>
+2025-12-17 15:03:05,591 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 15:03:05,602 - ERROR - compile_jac: main.jac: line 3:0 - unparsed:main.jac:0:0: - mismatched input 'can' expecting {<EOF>, 'version', 'type', 'graph', 'node', 'import', 'edge', 'walker', 'async', 'test', 'global'}
+2025-12-17 15:03:05,614 - ERROR - register: main.jac: Code not registered
+2025-12-17 15:05:29,300 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:05:29,659 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x00000232CAC93C50>
+2025-12-17 15:05:29,660 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 15:05:29,661 - ERROR - compile_jac: main.jac: line 3:7 - unparsed:main.jac:0:0: - mismatched input '{' expecting NAME
+2025-12-17 15:05:29,663 - ERROR - compile_jac: main.jac: line 36:9 - unparsed:main.jac:0:0: - extraneous input ';' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 15:05:29,666 - ERROR - register: main.jac: Code not registered
+2025-12-17 15:07:28,496 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:07:28,811 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x000001E0C02D4D90>
+2025-12-17 15:07:28,823 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 15:07:28,834 - ERROR - compile_jac: main.jac: line 3:22 - unparsed:main.jac:0:0: - extraneous input '|' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'spawn', '::', NODE_DBL_COLON, '{', 'edge', 'sync', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 15:07:28,848 - ERROR - compile_jac: main.jac: line 3:33 - unparsed:main.jac:0:0: - mismatched input '|' expecting '='
+2025-12-17 15:07:28,871 - ERROR - compile_jac: main.jac: line 17:26 - unparsed:main.jac:0:0: - extraneous input '|' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'spawn', '::', NODE_DBL_COLON, '{', 'edge', 'sync', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 15:07:28,887 - ERROR - compile_jac: main.jac: line 17:37 - unparsed:main.jac:0:0: - mismatched input '|' expecting '='
+2025-12-17 15:07:28,899 - ERROR - compile_jac: main.jac: line 34:9 - unparsed:main.jac:0:0: - extraneous input ';' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 15:07:28,905 - ERROR - register: main.jac: Code not registered
+2025-12-17 15:24:58,176 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:24:58,644 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x000001BCFC927890>
+2025-12-17 15:24:58,645 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 15:24:58,648 - ERROR - compile_jac: main.jac: line 4:22 - unparsed:main.jac:0:0: - extraneous input '|' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'spawn', '::', NODE_DBL_COLON, '{', 'edge', 'sync', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 15:24:58,655 - ERROR - compile_jac: main.jac: line 4:33 - unparsed:main.jac:0:0: - mismatched input '|' expecting '='
+2025-12-17 15:24:58,656 - ERROR - compile_jac: main.jac: line 18:26 - unparsed:main.jac:0:0: - extraneous input '|' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'spawn', '::', NODE_DBL_COLON, '{', 'edge', 'sync', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 15:24:58,658 - ERROR - compile_jac: main.jac: line 18:37 - unparsed:main.jac:0:0: - mismatched input '|' expecting '='
+2025-12-17 15:24:58,658 - ERROR - compile_jac: main.jac: line 35:9 - unparsed:main.jac:0:0: - extraneous input ';' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 15:24:58,660 - ERROR - register: main.jac: Code not registered
+2025-12-17 15:31:50,015 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:31:50,554 - ERROR - interface_error: Internal Exception: list index out of range
+2025-12-17 15:38:13,015 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:38:13,277 - ERROR - interface_error: Internal Exception: list index out of range
+2025-12-17 15:42:49,562 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:42:50,236 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x0000024BCCD1F890>
+2025-12-17 15:42:50,240 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 15:42:50,243 - ERROR - compile_jac: main.jac: line 3:22 - unparsed:main.jac:0:0: - extraneous input '|' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'spawn', '::', NODE_DBL_COLON, '{', 'edge', 'sync', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 15:42:50,246 - ERROR - compile_jac: main.jac: line 3:33 - unparsed:main.jac:0:0: - mismatched input '|' expecting '='
+2025-12-17 15:42:50,247 - ERROR - compile_jac: main.jac: line 17:26 - unparsed:main.jac:0:0: - extraneous input '|' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'spawn', '::', NODE_DBL_COLON, '{', 'edge', 'sync', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 15:42:50,249 - ERROR - compile_jac: main.jac: line 17:37 - unparsed:main.jac:0:0: - mismatched input '|' expecting '='
+2025-12-17 15:42:50,251 - ERROR - compile_jac: main.jac: line 34:9 - unparsed:main.jac:0:0: - extraneous input ';' expecting {'-->', '<--', '<-', '<-->', 'str', 'int', 'float', 'list', 'dict', 'bool', 'type', 'node', 'ignore', 'take', 'spawn', ':', '::', NODE_DBL_COLON, '{', '}', 'edge', 'sync', 'assert', 'if', 'for', 'while', 'continue', 'break', 'disengage', 'yield', 'skip', 'report', 'destroy', 'try', '&', NOT, 'global', '+', '-', '*', '(', '[', FLOAT, STRING, BOOL, INT, 'null', NAME}
+2025-12-17 15:42:50,264 - ERROR - register: main.jac: Code not registered
+2025-12-17 15:44:42,398 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:45:26,963 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:49:12,638 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:49:13,018 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x0000024718A3F890>
+2025-12-17 15:49:13,019 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 15:49:13,020 - ERROR - compile_jac: main.jac: line 3:19 - unparsed:main.jac:0:0: - missing '=' at '('
+2025-12-17 15:49:13,021 - ERROR - compile_jac: main.jac: line 3:24 - unparsed:main.jac:0:0: - missing ')' at ','
+2025-12-17 15:49:13,022 - ERROR - compile_jac: main.jac: line 3:30 - unparsed:main.jac:0:0: - mismatched input ')' expecting '='
+2025-12-17 15:49:13,022 - ERROR - compile_jac: main.jac: line 17:23 - unparsed:main.jac:0:0: - missing '=' at '('
+2025-12-17 15:49:13,023 - ERROR - compile_jac: main.jac: line 17:28 - unparsed:main.jac:0:0: - missing ')' at ','
+2025-12-17 15:49:13,024 - ERROR - compile_jac: main.jac: line 17:34 - unparsed:main.jac:0:0: - mismatched input ')' expecting '='
+2025-12-17 15:49:13,025 - ERROR - register: main.jac: Code not registered
+2025-12-17 15:50:56,789 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:50:57,024 - ERROR - jac_code_to_ast: Parse errors encountered - <jaseci.jac.ir.ast_builder.JacAstBuilder object at 0x00000234E7882390>
+2025-12-17 15:50:57,026 - ERROR - compile_jac: main.jac: Invalid syntax in Jac code!
+2025-12-17 15:50:57,027 - ERROR - compile_jac: main.jac: line 3:19 - unparsed:main.jac:0:0: - missing '=' at '('
+2025-12-17 15:50:57,028 - ERROR - compile_jac: main.jac: line 3:24 - unparsed:main.jac:0:0: - missing ')' at ','
+2025-12-17 15:50:57,029 - ERROR - compile_jac: main.jac: line 3:30 - unparsed:main.jac:0:0: - mismatched input ')' expecting '='
+2025-12-17 15:50:57,030 - ERROR - compile_jac: main.jac: line 17:23 - unparsed:main.jac:0:0: - missing '=' at '('
+2025-12-17 15:50:57,030 - ERROR - compile_jac: main.jac: line 17:28 - unparsed:main.jac:0:0: - missing ')' at ','
+2025-12-17 15:50:57,032 - ERROR - compile_jac: main.jac: line 17:34 - unparsed:main.jac:0:0: - mismatched input ')' expecting '='
+2025-12-17 15:50:57,034 - ERROR - register: main.jac: Code not registered
+2025-12-17 15:55:46,182 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:58:09,394 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:59:12,775 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 15:59:13,164 - ERROR - spawn_architype: main.jac: Unable to spawn walker architype init!
+2025-12-17 15:59:13,164 - ERROR - run_architype: main.jac: Unable to spawn architype ['init', 'walker']!
+2025-12-17 16:02:29,609 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 16:46:05,808 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 16:49:18,718 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 16:50:37,049 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 16:53:57,933 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 16:57:33,532 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 17:01:11,820 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.
+2025-12-17 17:05:34,189 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 10061 connecting to localhost:6379. No connection could be made because the target machine actively refused it.

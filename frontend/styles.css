@@ -1,0 +1,7 @@
+:root{--bg:#f4fbff;--card:#fff;--accent:#7dd3fc;--radius:12px}
+body{margin:0;background:linear-gradient(180deg,#eef9ff,#f6f8ff);font-family:Inter,system-ui;padding:20px;display:flex;justify-content:center}
+.container{width:100%;max-width:760px}
+.card{background:var(--card);border-radius:var(--radius);padding:16px;box-shadow:0 6px 18px rgba(16,24,40,0.06);margin-bottom:12px}
+.moods button{margin-right:8px;padding:8px 12px;border-radius:10px;border:0;background:linear-gradient(180deg,var(--accent),#c7b3ff);cursor:pointer}
+textarea{width:100%;min-height:80px;margin-top:8px;padding:10px;border-radius:8px;border:1px solid #e6eef6}
+#getSupport{background:#4dd0e1;padding:10px 14px;border-radius:10px;border:0;cursor:pointer}
