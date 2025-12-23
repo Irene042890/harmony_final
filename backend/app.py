@@ -4,9 +4,6 @@ from pydantic import BaseModel
 import os
 from dotenv import load_dotenv
 
-# 👇 BYLLM SDK
-from byllm import generate
-
 load_dotenv()
 
 app = FastAPI()
@@ -24,8 +21,13 @@ app.add_middleware(
 
 BYLLM_API_KEY = os.getenv("BYLLM_API_KEY")
 
-if not BYLLM_API_KEY:
-    print("⚠️ BYLLM_API_KEY not set — using fallback only")
+# Try importing byllm safely (DOES NOT CRASH)
+try:
+    from byllm import generate
+    BYLLM_AVAILABLE = True
+except Exception:
+    BYLLM_AVAILABLE = False
+    print("⚠️ BYLLM not available — using fallback responses only")
 
 
 class MoodInput(BaseModel):
@@ -56,9 +58,9 @@ Do not mention AI.
 """
 
     # =========================
-    # BYLLM SDK CALL (SAFE)
+    # OPTIONAL BYLLM (SAFE)
     # =========================
-    if BYLLM_API_KEY:
+    if BYLLM_AVAILABLE and BYLLM_API_KEY:
         try:
             response = generate(
                 prompt=prompt,
@@ -77,7 +79,7 @@ Do not mention AI.
                 }
 
         except Exception as e:
-            print("❌ BYLLM SDK error:", e)
+            print("❌ BYLLM runtime error:", e)
 
     # =========================
     # FALLBACK (ALWAYS WORKS)
